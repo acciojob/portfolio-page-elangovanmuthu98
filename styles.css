@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+#im{
+	width: 5cm;
+	height: 6cm;
+	margin: 50px;
+}
+#name{
+	color: blue;
+	text-shadow:0px 0px 10px red;}
